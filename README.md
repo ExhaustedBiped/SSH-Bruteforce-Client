@@ -6,6 +6,8 @@ Execute `pip3 install paramiko colorama` in the terminal to install Paramiko (fo
 
 `python3 sshbruteforce.py <ip> -u <username> -P <wordlist .txt file>`
 
+Depending on your computer's processing power, this can take a while. Here's a maxim: Higher Hertz, Hastier Hacking.
+
 ### Disclaimer:
 
 This software is for ethical and/or educational purposes only. DO NOT USE WITHOUT PERMISSION FROM THE ADMINISTRATOR OF THE SERVER YOU ARE ATTEMPTING TO BRUTEFORCE. I take no responsibility for any trouble you get into for using this.
